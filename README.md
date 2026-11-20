@@ -67,7 +67,7 @@ basketball-player-classification/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/basketball-player-classification.git
+git clone https://github.com/ZyaD-Mostafa/basketball-player-classification.git
 ```
 
 ### 2. Install Required Libraries
